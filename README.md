@@ -62,7 +62,7 @@ A modern, minimalist real-time weather application that provides current conditi
 
 ### 1. Clone the repository
 
-git clone https://github.com/eljhn/weather-app.git
+git clone https://github.com/eljohnluar/weather-app.git
 cd weather-app
 2. Install dependencies
 bash
@@ -208,7 +208,7 @@ bash
 npm install --save-dev gh-pages
 
 # Add to package.json
-"homepage": "https://eljhn.github.io/weather-app",
+"homepage": "https://eljohnluar.github.io/weather-app",
 "scripts": {
   "predeploy": "npm run build",
   "deploy": "gh-pages -d dist"
