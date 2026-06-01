@@ -1,4 +1,4 @@
-#  Weather Dashboard
+#  Weather App
 
 A modern, minimalist real-time weather application that provides current conditions, 5-day forecasts, and location-based weather tracking. Built with React 19, Vite, and Tailwind CSS.
 
