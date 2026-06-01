@@ -2,8 +2,6 @@
 
 A modern, minimalist real-time weather application that provides current conditions, 5-day forecasts, and location-based weather tracking. Built with React 19, Vite, and Tailwind CSS.
 
-![Weather Dashboard Demo](https://via.placeholder.com/1200x600/1a1a2e/ffffff?text=Weather+Dashboard+Screenshot)
-
 ##  Features
 
 ### Current Weather
@@ -52,7 +50,7 @@ A modern, minimalist real-time weather application that provides current conditi
 
 ##  Live Demo
 
-[View Live Demo](https://ej-weather-app.netlify.app) *(Add your URL after deployment)*
+[View Live Demo](https://ej-weather-app.netlify.app) 
 
 ##  Prerequisites
 
@@ -243,7 +241,7 @@ npm install
 
 # Run with different port
 npm run dev -- --port 3000
-🧪 Testing
+ Testing
 bash
 
 # Run linter
@@ -254,7 +252,7 @@ npm run build
 
 # Preview production build
 npm run preview
-🤝 Contributing
+ Contributing
 Fork the repository
 
 Create a feature branch (git checkout -b feature/amazing-feature)
@@ -273,9 +271,6 @@ Add comments for complex logic
 Test on multiple devices
 
 Update documentation as needed
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgments
 Weather data by OpenWeatherMap
